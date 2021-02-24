@@ -12,6 +12,10 @@ describe('My First Test', () => {
 
     })
 
+    it('Test upload a file', () => {
+
+    })
+
     it('Test SEND button', () => {
 
     })
